@@ -1,0 +1,1 @@
+Flood Monitoring System adalah sistem pemantauan banjir berbasis IoT yang mengukur ketinggian air secara real-time menggunakan sensor, lalu menampilkan datanya melalui dashboard dan mengirim peringatan dini saat air mencapai level berbahaya.
